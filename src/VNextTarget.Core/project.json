@@ -1,0 +1,15 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "VNextTarget.Core Class Library",
+  "authors": [ "root" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "dependencies": {
+  },
+
+  "frameworks": {
+    "dnx451": { }
+  }
+}

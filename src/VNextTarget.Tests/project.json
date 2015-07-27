@@ -1,0 +1,17 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "VNextTarget.Tests Class Library",
+  "authors": [ "root" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "dependencies": {
+    "VNextTarget.Core": "1.0.0-*",
+    "NUnit": "3.0.0-beta-2",
+  },
+
+  "frameworks": {
+    "dns451": { }
+  }
+}
