@@ -21,5 +21,11 @@ namespace VNextTarget.Tests
 
             Assert.That(result, Is.EqualTo(7));
         }
+
+        [Test]
+        public void Add_WhenInputsAreInvalid_ThenSomethingHappens()
+        {
+            Assert.Fail("Oh no dear me!");
+        }
     }
 }

@@ -8,7 +8,7 @@
 
   "dependencies": {
     "VNextTarget.Core": "1.0.0-*",
-    "NUnit": "3.0.0-beta-2",
+    "NUnit": "3.0.0-beta-2"
   },
 
   "frameworks": {
